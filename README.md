@@ -20,12 +20,6 @@
 | GPU Util | 99% | 94% | - |
 | Power | 319W | 310W | - |
 
-### Baseline (32B only)
-![Baseline Results](results/images/baseline.png)
-
-### Speculative (1.5B + 32B)
-![Speculative Results](results/images/speculative.png)
-
 ---
 
 ## Hardware
