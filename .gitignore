@@ -1,0 +1,14 @@
+```
+hf_models/
+checkpoints/
+checkpoints_v16/
+engines/
+engines_v16/
+model.cache
+*.cache
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+```
